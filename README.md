@@ -1,0 +1,2 @@
+# licenses
+Licenses for InstaSal
