@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "product": "InstaSal",
+    "install_id": "2f8d717c1e32482a",
+    "expiry": "2026-09-30",
+    "status": "active",
+    "issued": "2026-07-27",
+    "note": "Sept 2026 AMC"
+  },
+  "signature": "f343991469b7f97322afc728cd8dabd9078beebf87eb960a43c898ab1abca98f9ee6c795ce7a838e9bc12a017f114cafc2c4117cb2a01282e6ebd48084a91f09"
+}
